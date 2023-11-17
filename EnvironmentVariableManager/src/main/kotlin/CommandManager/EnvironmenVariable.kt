@@ -1,3 +1,3 @@
 package CommandManager
 
-data class EnvironmenVariable(val valname: String, val value: String)
+data class EnvironmenVariable(val name: String, val value: String)
